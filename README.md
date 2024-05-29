@@ -22,7 +22,11 @@
 **Completed Task:**
 
 - **Home Page:** I have completed the home page and add e video for the first thumbnail and it is clickable.
-- **Remaining Taks:** The tasks are Library , playlists , searchOption Implementation, others Thumbnail Images, others pages and also backend section.It should be completed .
+- **FrontEnd Section:** This section has completed perfectly.
+
+**Remaining Taks:**
+
+The tasks are Library Function, playlists , searchOption Implementation, others Thumbnail Images, others pages implementation and also backend section.It should be completed .
 
 **Tools I have used:**
 
