@@ -1,0 +1,31 @@
+@media (max-width: 900px) {
+	.nav_right img {
+		width: 20px;
+	}
+	.nav_right .user_interface {
+		width: 28px;
+		height: 28px;
+	}
+	.nav_left .menu {
+		display: none;
+	}
+	.nav_left .logo {
+		width: 115px;
+	}
+	.nav_middle .search_box input {
+		width: 300px;
+	}
+	.nav_middle .mic_icon {
+		width: 17px;
+	}
+	.nav_middle .search_box {
+		padding: 8px 7px;
+	}
+	.side_bar {
+		display: none;
+	}
+	.container {
+		width: 95%;
+		padding-left: 10%;
+	}
+}
