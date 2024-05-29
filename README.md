@@ -1,32 +1,43 @@
-# VidTube# YouTube-Clone-VidTube
-
 ## VidTube: A YouTube Clone
 
-**VidTube** is a web application inspired by YouTube, a platform for users to share and discover video content.
+**VidTube** is a web application inspired by YouTube, a platform for users to share and discover video content. It will be a fully frotnend and backend platform. It is still fully under development and it needs time to be completed functionally.
 
 **Features:**
 
-- **Video Uploads:** Users can upload their own videos (functionality to be implemented).
-- **Video Browsing:** Browse and watch videos from various categories (functionality to be implemented).
-- **Search:** Search for specific videos by title or keywords (functionality to be implemented).
-- **Simple Interface:** Designed for ease of use and navigation.
+- **Frontend:**
+  - User-friendly interface for browsing and watching videos.
+  - Search functionality to find specific videos.
+  - (Add any additional planned frontend features)
+- **Backend:**
+  - User authentication (functionality to be implemented).
+  - Video upload and management (functionality to be implemented).
+  - Search functionality (backend implementation).
+  - (Add any additional planned backend features)
 
 **Completed Task:**
 
 - **Home Page:** I have completed the home page and add e video for the first thumbnail and it is clickable.
-- **Remaining Taks:** The tasks are Library , playlists , searchOption , others Thumbnail and others pages . It should be completed .
+- **Remaining Taks:** The tasks are Library , playlists , searchOption Implementation, others Thumbnail Images, others pages and also backend section.It should be completed .
 
 **Tools I have used:**
 
 - HTML
 - CSS
 - JavaScript
+- Others(Needed in future)
 
-This repository is currently under development. The provided code serves as a foundation for building the functionalities mentioned above.
+This repository is currently under development. The provided code serves as a foundation for building the functionalities mentioned above. We will add backend section in future for sure.
 
 **Dependencies:**
 
-- (List any programming languages, libraries, or frameworks required)
+**Frontend:**
+
+     * (List any frontend technologies like React, Vue.js, etc.)
+
+**Backend:**
+
+     * (List any backend technologies like Node.js, Python, etc.)
+     * (Specify the database used)
 
 **Installation:**
 
@@ -36,14 +47,33 @@ This repository is currently under development. The provided code serves as a fo
 git clone https://github.com/your-username/vidtube.git
 ```
 
-2. Install dependencies (if any):
+2. Install dependencies:
 
-```bash
-# Replace 'dependency_installer' with the appropriate command for your chosen dependencies
-dependency_installer install
-```
+   - **Frontend:**
+     ```bash
+     # Replace 'frontend_dependency_installer' with the appropriate command
+     frontend_dependency_installer install
+     ```
+   - **Backend:**
+     ```bash
+     # Replace 'backend_dependency_installer' with the appropriate command
+     backend_dependency_installer install
+     ```
 
 3. (Any additional setup steps specific to your project)
+
+**Running the Application:**
+
+1. **Start the Backend:**
+   ```bash
+   # Replace 'backend_start_command' with the actual command to start your backend server
+   backend_start_command
+   ```
+2. **Run the Frontend:**
+   ```bash
+   # Replace 'frontend_start_command' with the actual command to start your frontend development server
+   frontend_start_command
+   ```
 
 **Contributing**
 
