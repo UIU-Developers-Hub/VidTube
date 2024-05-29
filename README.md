@@ -3,6 +3,7 @@
 **VidTube** is a web application inspired by YouTube, a platform for users to share and discover video content. It will be a fully frotnend and backend platform. It is still fully under development and it needs time to be completed functionally.
 
 **Project Overview**
+
 ![screenshot_1](https://github.com/UIU-Developers-Hub/VidTube/blob/adad825588b5ce723a533e9457d1f8bdb09d2a77/images/screenshot_1.png)
 ![screenshot_2](https://github.com/pabel019/YouTube-Clone-VidTube/assets/66493267/932a53fc-c61f-4279-9484-4b18e4dc9ef8)
 
