@@ -5,7 +5,7 @@
 **Project Overview**
 
 ![screenshot_1](https://github.com/UIU-Developers-Hub/VidTube/blob/adad825588b5ce723a533e9457d1f8bdb09d2a77/images/screenshot_1.png)
-![screenshot_2](https://github.com/pabel019/YouTube-Clone-VidTube/assets/66493267/932a53fc-c61f-4279-9484-4b18e4dc9ef8)
+![screenshot_2](https://github.com/UIU-Developers-Hub/VidTube/blob/ef6614f4325110196ec13f4cbf49f7f82f353484/images/screenshot_2.png)
 
 **Features:**
 
